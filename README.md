@@ -6,6 +6,18 @@ https://github.com/Lisiyuan233/Voices_of_the_Court1.git
 
 # Anime Core Lib (二向箔) 兼容性说明
 
+## 使用方法
+
+将本补丁放置在up的mod下方。具体顺序如下：
+
+1、Advance cheat Menu
+
+2、二向箔 Anime Core Lib
+
+3、Voices of the Court
+
+4、本补丁
+
 ## 概述
 
 本项目已添加对Anime Core Lib（二向箔）的兼容性支持，使2D肖像和纸片人种族能够参与对话系统。
